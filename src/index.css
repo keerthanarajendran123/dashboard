@@ -1,0 +1,75 @@
+.head
+{
+  margin:20px ;
+  color: blue;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box {
+  display: flex;
+  margin-bottom: 550px;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: -130px;
+}
+
+.search-icon {
+  margin-right: 10px;
+}
+
+.search-input {
+  border: none;
+  padding: 5px;
+  outline: none; 
+  width: 580px;
+}
+.container-tab{
+  width: 1000px;
+}
+.table{
+  margin-top:-360px;
+  margin-left: 300px;
+} 
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.saleinfo{
+  margin-top:-1595px; 
+  margin-left: 250px;
+}
+.form-control{
+  padding: 10px;
+  width: 230px;
+}
+.sidebar{
+  margin-top:-1322px;
+  height: 100vh;
+}
+body{
+  background-color:rgb(236, 236, 236);
+  height: 100vh;
+  width: 100%;
+}
+.ques{
+  margin-top: 90px;
+  margin-left: 35px;
+  
+}
+.nav-item{
+  padding: 19px;
+  margin-left: 15px;
+}
+.notify-container {
+  margin-top: -725px;
+  margin-left: 1250px;
+}
