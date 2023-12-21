@@ -1,7 +1,16 @@
-.head
+.heading
 {
   margin:20px ;
   color: blue;
+  position: relative;
+  top: 30px;
+} 
+
+.head2{
+   position: relative;
+   margin-left: 0px;
+   top: 15px;
+   padding: 19px;
 }
 .container {
   display: flex;
@@ -52,7 +61,7 @@
   width: 230px;
 }
 .sidebar{
-  margin-top:-1322px;
+  margin-top:-1300px;
   height: 100vh;
 }
 body{
@@ -73,3 +82,4 @@ body{
   margin-top: -725px;
   margin-left: 1250px;
 }
+

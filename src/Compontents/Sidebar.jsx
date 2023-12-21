@@ -4,9 +4,9 @@ function Sidebar() {
   return (
     <nav className="col-md-3 col-lg-2 d-md-block bg-light sidebar">
         <div className='position-sticky'>
-        <h3 className='head'>Guvi sales</h3>
+        <h3 className='heading'>Guvi sales</h3>
         <ul className="nav flex-column">
-          <li className="head">
+          <li className="head2">
             <a className="nav-link active" href="#">
             <i className="fa-solid fa-table-cells-large"></i>&nbsp;&nbsp;
               Dashboard
